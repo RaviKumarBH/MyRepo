@@ -3,9 +3,7 @@
 write=nobody
 execute=anonymous 
   **/ 
-
-		
-//First, we'll require the 'http' library to use later for calling a 3rd party webservice
+ //First, we'll require the 'http' library to use later for calling a 3rd party webservice
 var http = require("http");
 
 //Let's say your script is expecting an http request parameter called 'myName',
@@ -51,5 +49,4 @@ if(country != null) scriptResponse += " from " + country;
 scriptResponse += "!";
 
 return scriptResponse;
-
-	
+//test			
