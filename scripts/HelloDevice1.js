@@ -8,3 +8,4 @@ execute=authenticated
 //git hub token deleted manually
 //now again delted
 //added tag
+//my                           cmd line execution
