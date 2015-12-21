@@ -4,3 +4,4 @@ write=nobody
 execute=authenticated 
   **/ 
  //Now purge off and automatic enabled
+ //automatic disabled
