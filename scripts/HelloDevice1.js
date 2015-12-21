@@ -3,7 +3,4 @@
 write=nobody
 execute=authenticated 
   **/ 
- //my duplicate one in script			
- //my duplicate one in script	
- //my duplicate one in script	
- //my duplicate one in script	
+ //Now it is deleted from file
