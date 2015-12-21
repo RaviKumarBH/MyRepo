@@ -3,4 +3,4 @@
 write=nobody
 execute=authenticated 
   **/ 
- //Now it is deleted from file
+ //Now purge off and automatic enabled
