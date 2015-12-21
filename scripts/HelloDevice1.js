@@ -4,3 +4,6 @@ write=nobody
 execute=authenticated 
   **/ 
  //my duplicate one in script			
+ //my duplicate one in script	
+ //my duplicate one in script	
+ //my duplicate one in script	
