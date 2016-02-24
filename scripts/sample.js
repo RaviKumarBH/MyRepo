@@ -11,7 +11,7 @@ var data=
   ['United States', 300],
   ['Brazil', 4000],
   ['Canada', 500],
-  ['France', 600],
+  ['France', 6000],
   ['RU', 700]
 ]
 return data;
