@@ -14,4 +14,5 @@ console.log(arrayDevices.length);
 console.log(arrayDevices.pop());
 console.log(arrayDevices.indexOf("My Msg12"));
 console.log(arrayDevices.length);
-console.log(arrayDevices.reverse());			
+console.log(arrayDevices.reverse());
+console.log(arrayDevices.length);			
