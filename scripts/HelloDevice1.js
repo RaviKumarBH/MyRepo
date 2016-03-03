@@ -37,6 +37,7 @@ var requestObject = {
 //... and now we issue the request
 var country = null;
 var response = http.request(requestObject);
+
 if(response.status == "200"){
  var result = JSON.parse(response.body);
  country = result.country;
@@ -48,5 +49,4 @@ if(storage.local.theName != null) scriptResponse += " " + storage.local.theName;
 if(country != null) scriptResponse += " from " + country;
 scriptResponse += "!";
 
-return scriptResponse;
-//test			
+return scriptResponse;			
