@@ -49,4 +49,5 @@ if(storage.local.theName != null) scriptResponse += " " + storage.local.theName;
 if(country != null) scriptResponse += " from " + country;
 scriptResponse += "!";
 
-return scriptResponse;			
+return scriptResponse;
+//test			
